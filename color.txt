@@ -4,3 +4,8 @@ blue
 orange
 yellow
 green
+mauve
+tan
+grey
+black
+white
