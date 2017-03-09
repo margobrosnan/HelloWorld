@@ -1,3 +1,6 @@
 apple
 pear
 banana
+peach
+plum
+pineapple
