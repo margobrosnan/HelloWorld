@@ -27,7 +27,7 @@ Here is some *plain text*.  It's great to be able to **format** it the way you w
 
 ## Powered by:  
 
-![Class Background](sample.png)
+![Class Background](/images/sample.png)
 
 
  
